@@ -1,3 +1,5 @@
 Hello World!;
 Hello;
+Hello dear friend;
+Glad to see you;
 
