@@ -2,4 +2,5 @@ Hello World!;
 Hello;
 Hello dear friend;
 Glad to see you;
-
+Create new record;
+Create another new entity;
